@@ -1,0 +1,5 @@
+C:\Users\David\Desktop\C# Stuff\Project Euler\put commas between nums\put commas between nums\bin\Debug\put commas between nums.exe.config
+C:\Users\David\Desktop\C# Stuff\Project Euler\put commas between nums\put commas between nums\bin\Debug\put commas between nums.exe
+C:\Users\David\Desktop\C# Stuff\Project Euler\put commas between nums\put commas between nums\bin\Debug\put commas between nums.pdb
+C:\Users\David\Desktop\C# Stuff\Project Euler\put commas between nums\put commas between nums\obj\Debug\put commas between nums.exe
+C:\Users\David\Desktop\C# Stuff\Project Euler\put commas between nums\put commas between nums\obj\Debug\put commas between nums.pdb

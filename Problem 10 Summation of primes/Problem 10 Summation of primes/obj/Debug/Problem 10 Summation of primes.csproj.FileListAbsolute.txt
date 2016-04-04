@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem 10 Summation of primes\Problem 10 Summation of primes\bin\Debug\Problem 10 Summation of primes.exe.config
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem 10 Summation of primes\Problem 10 Summation of primes\bin\Debug\Problem 10 Summation of primes.exe
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem 10 Summation of primes\Problem 10 Summation of primes\bin\Debug\Problem 10 Summation of primes.pdb
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem 10 Summation of primes\Problem 10 Summation of primes\obj\Debug\Problem 10 Summation of primes.exe
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem 10 Summation of primes\Problem 10 Summation of primes\obj\Debug\Problem 10 Summation of primes.pdb
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem 10 Summation of primes\Problem 10 Summation of primes\obj\Debug\Problem 10 Summation of primes.csprojResolveAssemblyReference.cache

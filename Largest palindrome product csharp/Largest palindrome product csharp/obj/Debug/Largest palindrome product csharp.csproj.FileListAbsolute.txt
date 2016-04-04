@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Stuff\Project Euler\Largest palindrome product csharp\Largest palindrome product csharp\bin\Debug\Largest palindrome product csharp.exe.config
+C:\Users\David\Desktop\C# Stuff\Project Euler\Largest palindrome product csharp\Largest palindrome product csharp\bin\Debug\Largest palindrome product csharp.exe
+C:\Users\David\Desktop\C# Stuff\Project Euler\Largest palindrome product csharp\Largest palindrome product csharp\bin\Debug\Largest palindrome product csharp.pdb
+C:\Users\David\Desktop\C# Stuff\Project Euler\Largest palindrome product csharp\Largest palindrome product csharp\obj\Debug\Largest palindrome product csharp.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Stuff\Project Euler\Largest palindrome product csharp\Largest palindrome product csharp\obj\Debug\Largest palindrome product csharp.exe
+C:\Users\David\Desktop\C# Stuff\Project Euler\Largest palindrome product csharp\Largest palindrome product csharp\obj\Debug\Largest palindrome product csharp.pdb

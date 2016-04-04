@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Stuff\Project Euler\Special Pythagorean triplet\Special Pythagorean triplet\bin\Debug\Special Pythagorean triplet.exe.config
+C:\Users\David\Desktop\C# Stuff\Project Euler\Special Pythagorean triplet\Special Pythagorean triplet\bin\Debug\Special Pythagorean triplet.exe
+C:\Users\David\Desktop\C# Stuff\Project Euler\Special Pythagorean triplet\Special Pythagorean triplet\bin\Debug\Special Pythagorean triplet.pdb
+C:\Users\David\Desktop\C# Stuff\Project Euler\Special Pythagorean triplet\Special Pythagorean triplet\obj\Debug\Special Pythagorean triplet.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Stuff\Project Euler\Special Pythagorean triplet\Special Pythagorean triplet\obj\Debug\Special Pythagorean triplet.exe
+C:\Users\David\Desktop\C# Stuff\Project Euler\Special Pythagorean triplet\Special Pythagorean triplet\obj\Debug\Special Pythagorean triplet.pdb

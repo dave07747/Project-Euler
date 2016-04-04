@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Stuff\Project Euler\Largest product in a series\Largest product in a series\bin\Debug\Largest product in a series.exe.config
+C:\Users\David\Desktop\C# Stuff\Project Euler\Largest product in a series\Largest product in a series\bin\Debug\Largest product in a series.exe
+C:\Users\David\Desktop\C# Stuff\Project Euler\Largest product in a series\Largest product in a series\bin\Debug\Largest product in a series.pdb
+C:\Users\David\Desktop\C# Stuff\Project Euler\Largest product in a series\Largest product in a series\obj\Debug\Largest product in a series.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Stuff\Project Euler\Largest product in a series\Largest product in a series\obj\Debug\Largest product in a series.exe
+C:\Users\David\Desktop\C# Stuff\Project Euler\Largest product in a series\Largest product in a series\obj\Debug\Largest product in a series.pdb
