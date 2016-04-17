@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem 13 Large Sum\Problem 13 Large Sum\bin\Debug\Problem 13 Large Sum.exe.config
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem 13 Large Sum\Problem 13 Large Sum\bin\Debug\Problem 13 Large Sum.exe
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem 13 Large Sum\Problem 13 Large Sum\bin\Debug\Problem 13 Large Sum.pdb
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem 13 Large Sum\Problem 13 Large Sum\obj\Debug\Problem 13 Large Sum.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem 13 Large Sum\Problem 13 Large Sum\obj\Debug\Problem 13 Large Sum.exe
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem 13 Large Sum\Problem 13 Large Sum\obj\Debug\Problem 13 Large Sum.pdb

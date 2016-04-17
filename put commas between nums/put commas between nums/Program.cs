@@ -14,8 +14,23 @@ namespace put_commas_between_nums
             StreamReader sr = new StreamReader(@"C:\Users\David\Desktop\C# Stuff\Project Euler\put commas between nums\nums.txt");
             StreamWriter sw =
                 new StreamWriter(@"C:\Users\David\Desktop\C# Stuff\Project Euler\put commas between nums\newnums.txt");
-           while(!sr.EndOfStream)
-            sw.Write((sr.Read()-48) + ",");
+            while (!sr.EndOfStream)
+            {
+                var read = sr.ReadLine();
+                var newString = "";
+                for (int i = 0; i < read.Length; ++i)
+                {
+                    if (read[i] == ' ')
+                    {
+                        newString += ',';
+                    }
+                    else
+                    {
+                        newString += read[i];
+                    }
+                }
+                sw.WriteLine(newString);
+            }
         }
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Stuff\Project Euler\stopId and stopName\stopId and stopName\bin\Debug\stopId and stopName.exe.config
+C:\Users\David\Desktop\C# Stuff\Project Euler\stopId and stopName\stopId and stopName\bin\Debug\stopId and stopName.exe
+C:\Users\David\Desktop\C# Stuff\Project Euler\stopId and stopName\stopId and stopName\bin\Debug\stopId and stopName.pdb
+C:\Users\David\Desktop\C# Stuff\Project Euler\stopId and stopName\stopId and stopName\obj\Debug\stopId and stopName.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Stuff\Project Euler\stopId and stopName\stopId and stopName\obj\Debug\stopId and stopName.exe
+C:\Users\David\Desktop\C# Stuff\Project Euler\stopId and stopName\stopId and stopName\obj\Debug\stopId and stopName.pdb

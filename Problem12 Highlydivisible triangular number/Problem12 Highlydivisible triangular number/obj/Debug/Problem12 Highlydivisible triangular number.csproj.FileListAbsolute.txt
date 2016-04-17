@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem12 Highlydivisible triangular number\Problem12 Highlydivisible triangular number\bin\Debug\Problem12 Highlydivisible triangular number.exe.config
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem12 Highlydivisible triangular number\Problem12 Highlydivisible triangular number\bin\Debug\Problem12 Highlydivisible triangular number.exe
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem12 Highlydivisible triangular number\Problem12 Highlydivisible triangular number\bin\Debug\Problem12 Highlydivisible triangular number.pdb
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem12 Highlydivisible triangular number\Problem12 Highlydivisible triangular number\obj\Debug\Problem12 Highlydivisible triangular number.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem12 Highlydivisible triangular number\Problem12 Highlydivisible triangular number\obj\Debug\Problem12 Highlydivisible triangular number.exe
+C:\Users\David\Desktop\C# Stuff\Project Euler\Problem12 Highlydivisible triangular number\Problem12 Highlydivisible triangular number\obj\Debug\Problem12 Highlydivisible triangular number.pdb
